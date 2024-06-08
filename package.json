@@ -1,5 +1,5 @@
 {
-  "name": "mbtiles2pbf",
+  "name": "mbtilestopbf",
   "version": "1.0.0",
   "description": "This module will extract pbf files from mbtile by using mbutil.",
   "main": "dist/index.js",
